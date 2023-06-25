@@ -25,8 +25,6 @@
     flex-direction: column;
     min-width: 60px;
     padding: 10px;
-    /* border-top: 2px solid #61697210;
-    border-right: 2px solid #61697210; */
     position: relative;
     border: 2px solid transparent;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -40,9 +38,7 @@
     position: absolute;
     background-color: #61697233;
 }
-.item:last-child {
-    /* border-right: none; */
-}
+
 .item:hover{
     border: 2px solid #FFFFFF;
 }
