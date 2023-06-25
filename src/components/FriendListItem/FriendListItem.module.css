@@ -1,0 +1,23 @@
+.status {
+    border-radius: 50%;
+    height: 12px;
+    width: 12px;
+    background-color: #FF5053;
+}
+.status.online {
+    background-color: #4DAE53;
+}
+.avatar {
+    padding: 12px;
+    position: relative;
+    width: 60px;
+}
+.avatar_bg {
+    background-color: #61697210;
+    border-radius: 50%;
+}
+
+.name {
+    font-size: 18px;
+    font-weight: bold;
+}
