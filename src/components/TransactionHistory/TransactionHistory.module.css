@@ -28,7 +28,7 @@
     border-right-color: #fff !important;
 }
 
-.transaction-history tr:hover {box-shadow: 0 0 10px 10px #61697254;}
+.transaction-history tbody tr:hover {box-shadow: 0 0 10px 10px #61697254;}
 
 .transaction-history tbody {
     text-transform: capitalize;
